@@ -57,6 +57,7 @@ button{
     font-weight: bold;
     font-size: 15px;
     font-style: oblique;
+    cursor: inherit;
 }
 
 button:hover{
